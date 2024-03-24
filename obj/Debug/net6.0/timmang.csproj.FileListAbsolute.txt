@@ -1,0 +1,15 @@
+D:\Unity codegym\CtoF\timmang\bin\Debug\net6.0\timmang.exe
+D:\Unity codegym\CtoF\timmang\bin\Debug\net6.0\timmang.deps.json
+D:\Unity codegym\CtoF\timmang\bin\Debug\net6.0\timmang.runtimeconfig.json
+D:\Unity codegym\CtoF\timmang\bin\Debug\net6.0\timmang.dll
+D:\Unity codegym\CtoF\timmang\bin\Debug\net6.0\timmang.pdb
+D:\Unity codegym\CtoF\timmang\obj\Debug\net6.0\timmang.csproj.AssemblyReference.cache
+D:\Unity codegym\CtoF\timmang\obj\Debug\net6.0\timmang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity codegym\CtoF\timmang\obj\Debug\net6.0\timmang.AssemblyInfoInputs.cache
+D:\Unity codegym\CtoF\timmang\obj\Debug\net6.0\timmang.AssemblyInfo.cs
+D:\Unity codegym\CtoF\timmang\obj\Debug\net6.0\timmang.csproj.CoreCompileInputs.cache
+D:\Unity codegym\CtoF\timmang\obj\Debug\net6.0\timmang.dll
+D:\Unity codegym\CtoF\timmang\obj\Debug\net6.0\refint\timmang.dll
+D:\Unity codegym\CtoF\timmang\obj\Debug\net6.0\timmang.pdb
+D:\Unity codegym\CtoF\timmang\obj\Debug\net6.0\timmang.genruntimeconfig.cache
+D:\Unity codegym\CtoF\timmang\obj\Debug\net6.0\ref\timmang.dll
